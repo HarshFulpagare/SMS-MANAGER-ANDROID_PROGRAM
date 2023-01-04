@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GG</string>
+    <string name="heading" />
+    <string name="factorial">Factorial</string>
+    <string name="enter_a_number">Enter a Number</string>
+    <string name="table">Table</string>
+</resources>

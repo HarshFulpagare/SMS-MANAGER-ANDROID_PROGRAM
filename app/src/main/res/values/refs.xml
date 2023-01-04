@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="textview_style" />
+    <drawable name="btn_style" />
+    <drawable name="ic_baseline_message_24" />
+</resources>
